@@ -8,7 +8,7 @@ window.MHDC_CONFIG = {
 
   /* 1) URL Web App Apps Script TESTING (dari Code.gs di folder apps-script).
         Apps Script > Deploy > Manage deployments > salin "Web app URL". */
-  API_URL: "TEMPEL_URL_WEB_APP_TESTING_DI_SINI",
+  API_URL: "https://script.google.com/macros/s/AKfycbx2PAk9jFsZDWs38RJFOVNZ7MOxQmJZvSh1hE_B7RdleL2VtMD1C9VYmPNOyjJMc-o2ZQ/exec",
 
   /* 2) Alamat halaman rapor testing */
   RAPOR_BASE: "https://mhdcbusdev.github.io/Rapor-Gigi-Anak-Testing/?id=",
